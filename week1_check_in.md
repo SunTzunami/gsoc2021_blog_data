@@ -24,4 +24,4 @@ I have two major goals for the next week -
 <li>Try understanding the documentation of ProteinRibbonFilter which will prove beneficial for generating Ribbon diagrams.</li>
 </ul>
 <h2>Did you get stuck anywhere?</h2>
-I was having difficulty when dealing with large protein structures (how to visualise them) as it gets computationally taxing to render many molecules. FURY team was pretty helpful and instructed me to use shaders (luckily, which had been implemented by the community members). This resolved the issue of dealing with large files to a great extent.
+I was having difficulty when dealing with large protein structures (how to visualise them) as it gets computationally taxing to render many molecules. FURY team was pretty helpful and instructed me to use shaders (luckily for me, the shader in question had been implemented by the community members). This resolved the issue of dealing with large files to a great extent.
