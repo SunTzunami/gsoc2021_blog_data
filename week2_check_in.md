@@ -13,10 +13,13 @@ The PR has:
 <li>Two examples where I show how to visualize the proteins- 
  <ol><li>In <a href="https://github.com/fury-gl/fury/pull/439/files#diff-9579793ad0f25aa895d88d92a09b49f616969d3b1c859be14a16c469572dc92bR6">this example</a>, 
 I parse a PDBx file myself and extract the atomic info essential for constructing the model which is then used by the actor to visualize it.</li>
-<li> In this <a href="https://github.com/fury-gl/fury/pull/439/files#diff-1a09073039495e53b9585d0fd64c58247e98c5659d3cc84be8abe6b2724c3718R6">example</a>, 
+<li> In <a href="https://github.com/fury-gl/fury/pull/439/files#diff-1a09073039495e53b9585d0fd64c58247e98c5659d3cc84be8abe6b2724c3718R6">this example</a>, 
 I parse a PDB file by using Biopython module and extract the atomic info essential for constructing the model which is then used by the actor to visualize it.</li>
 </ol>
 <li>I created a basic test for the actor which needs to be improved. I'll discuss how to improve the test with the mentors.
 </ul>
 </p>
 <h2>What is coming up next week?</h2>
+<p> I'll try to implement ball and stick model or ribbon model depending on which model is decicded in the meeting with the mentors and try to improve the tests for space filling model. Writing an algorithm to generate bonds from structure data will be the challenge</p>
+<h2>Did you get stuck anywhere?</h2>
+<p> I tried to create a class in python which inherits from a vtkclass called vtkMoleculeReaderBase but was unsucessful in this endeavour. I'll try to find a workaround.</p>
