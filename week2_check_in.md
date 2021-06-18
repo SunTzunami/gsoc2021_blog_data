@@ -20,6 +20,6 @@ I parse a PDB file by using Biopython module and extract the atomic info essenti
 </ul>
 </p>
 <h2>What is coming up next week?</h2>
-<p> I'll try to implement ball and stick model or ribbon model depending on which model is decicded in the meeting with the mentors and try to improve the tests for space filling model. Writing an algorithm to generate bonds from structure data will be the challenge</p>
+<p> I'll try to implement ball and stick model or ribbon model depending on which model is decided in the meeting with the mentors and try to improve the tests for space filling model. Writing an algorithm to generate bonds from structure data will be the challenge</p>
 <h2>Did you get stuck anywhere?</h2>
 <p> I tried to create a class in python which inherits from a vtkclass called vtkMoleculeReaderBase but was unsucessful in this endeavour. I'll try to find a workaround.</p>
