@@ -21,6 +21,7 @@ This will be of great help although it's rather slow in rendering large molecule
 <img src = "https://github.com/SunTzunami/gsoc2021_blog_data/blob/master/visuals/week2_bs_rep.png?raw=true", width="300", height="300">
 <br>
 </li>
+</ul>
 </p>
 <h2>What is coming up next week?</h2>
 <p>Try to implement the above models using shaders. Try implementing the ribbon model using the vtkProteinRibbonFilter. The rest will be decided in the meeting with the mentors.</p>
