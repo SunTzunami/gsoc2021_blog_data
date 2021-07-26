@@ -11,7 +11,7 @@ Classes of interest -
 </ul>
 Link to the document - <a href="https://docs.google.com/document/d/1LC2MgT9mUQK0Yo9hsI4lWqaTXHWAkSNxyBKWGAqHqe8/edit">Molecular_viz_vtk</a>.
 In addition to the document, I read some research papers recommended by my mentors to understand some other (and potentially better) methods of ribbon visualization. 
-Tried to implement vtkProteinRibbonFilter usage without using vtkPDBReader. Been stuck on it for a while now. It's making me furious!
+Tried to implement vtkProteinRibbonFilter usage without using vtkPDBReader but was unsuccessful in this endeavour.
 </p>
 <h2>What is coming up next week?</h2>
 <p>Three goals for next week - 
