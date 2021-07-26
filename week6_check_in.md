@@ -18,4 +18,4 @@
 </ol>
 <p></p>
 <h2>Did you get stuck anywhere?</h2>
-<p>Generalising the vtkProteinRibbonFilter implementation was something I had been stuck on since past few weeks. I'm grateful to the mentors for keeping a meeting and for helping me debug the code. I figured out most of the stuff courtesy the meeting.</p>
+<p>I was able to generalise the vtkProteinRibbonFilter implementation. I'm grateful to the mentors for keeping a meeting and for helping me debug the code. I figured out most of the stuff courtesy the meeting.</p>
