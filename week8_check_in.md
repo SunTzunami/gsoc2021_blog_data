@@ -1,5 +1,5 @@
 <h2>Seventh week of coding </h2>
-<p>Welcome to the seventh weekly check-in. I'll be sharing my progress for the seventh week of coding.</p>
+<p>Welcome to the eigth weekly check-in. I'll be sharing my progress for the seventh week of coding.</p>
 <h2> What did you do this week? </h2>
 <p><ol>
   <li>Updated <a href="https://github.com/fury-gl/fury/pull/452">PR #452</a>: <ul><li>Added ribbon actor to the molecular module.</li>
