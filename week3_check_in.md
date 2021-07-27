@@ -1,5 +1,5 @@
 <h2>Second week of coding </h2>
-<p>Welcome to the second weekly check-in. I'll be sharing my progress for the second week of coding.</p>
+<p>Welcome to the third weekly check-in. I'll be sharing my progress for the third week of coding.</p>
 <h2> What did you do this week? </h2>
 <p> I created an example to demonstrate how one can render multiple bonds (double and triple). This required me to write an algorithm to detect bonding. I used <a href="https://www.kaggle.com/aekoch95/bonds-from-structure-data">this</a> as a reference and made a few tweaks of my own to detect the presence of double/triple bonds from interatomic distances. The math involved in generating the coordinates of bonds was quite intriguing.
 <br> 
@@ -12,11 +12,11 @@
  In addition to this, I tried understanding the codebase of vtkMolecule, vtkSimpleBondPerceiver, vtkMoleculeMapper, vtkPeriodicTable and was able to render bond-stick models and stick models using it.
 This will be of great help although it's rather slow in rendering large molecules (using shaders to improve its speed will be crucial if it's to be utilised).
 </p><ul>
-<li>Preview of Stick representation using vtkMolecule - 
+<li>Preview of Stick representation using vtkMoleculeMapper - 
 <br>
 <img height="300" src="https://github.com/SunTzunami/gsoc2021_blog_data/blob/master/visuals/week2_wire_rep.png?raw=true" width="300">
 </li>
-<li>Preview of Ball and Stick representation using vtkMolecule - 
+<li>Preview of Ball and Stick representation using vtkMoleculeMapper - 
 <br>
 <img height="300" src="https://github.com/SunTzunami/gsoc2021_blog_data/blob/master/visuals/week2_bs_rep.png?raw=true" width="300">
 <br>
