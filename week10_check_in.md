@@ -18,7 +18,7 @@
 </p>
 <h2>What is coming up next week?</h2>
 <p><ol><li>Try to create a native implementation of molecular surface.</li>
-  <li>Small fixes to <a href="https://github.com/fury-gl/fury/pull/362">PR #362</a>, <a href="https://github.com/fury-gl/fury/pull/462">PR #462</a>
+  <li>Small fixes to <a href="https://github.com/fury-gl/fury/pull/362">PR #362</a>, <a href="https://github.com/fury-gl/fury/pull/462">PR #462.</a>
   </li></ol></p>
 <h2>Did you get stuck anywhere?</h2>
 <p>No.</p>
