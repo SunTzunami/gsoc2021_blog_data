@@ -8,7 +8,7 @@
 <br>
   Current render (this implementation was according to the paper): <br>
    <figure><img src="https://user-images.githubusercontent.com/65067354/129560374-14180b22-14b2-449b-88a6-b3140226418d.png" width="300" height="300">
-    <figcaption>grid dimenstions = 256×256×256</figcaption>
+    <figcaption><br>grid dimenstions = 256×256×256</figcaption>
 </figure>
   </li></ul></li>
   <li>I also understood how to go about rendering volume. I think ability to render volumes with FURY will be a cool capability and I'll discuss my implementation and ask them for feedback.
